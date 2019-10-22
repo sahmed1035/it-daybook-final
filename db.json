@@ -27,6 +27,13 @@
       "tech": "Syeda Ahmed",
       "date": "2019-10-16T22:47:05.475Z",
       "id": 6
+    },
+    {
+      "message": "testing new log",
+      "attention": true,
+      "tech": "Syeda Ahmed",
+      "date": "2019-10-22T21:19:35.286Z",
+      "id": 7
     }
   ],
   "techs": [
