@@ -1,0 +1,64 @@
+{
+  "logs": [
+    {
+      "id": 2,
+      "message": "Testing UpdateLog Fixed hard drive issue on the laptop",
+      "attention": false,
+      "tech": "Syeda Ahmed",
+      "date": "2019-10-17T14:47:41.488Z"
+    },
+    {
+      "message": "printer not working in the room 105",
+      "attention": true,
+      "tech": "Will Fort",
+      "date": "2019-10-16T22:44:32.397Z",
+      "id": 3
+    },
+    {
+      "message": "changed network card on laptop 444",
+      "attention": false,
+      "tech": "Syeda Ahmed",
+      "date": "2019-10-16T22:46:26.759Z",
+      "id": 5
+    },
+    {
+      "message": "checking toast error msg",
+      "attention": true,
+      "tech": "Syeda Ahmed",
+      "date": "2019-10-16T22:47:05.475Z",
+      "id": 6
+    }
+  ],
+  "techs": [
+    {
+      "id": 1,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 2,
+      "firstName": "John",
+      "lastName": "Doe"
+    },
+    {
+      "id": 3,
+      "firstName": "Syeda",
+      "lastName": "Ahmed"
+    },
+    {
+      "firstName": "will",
+      "lastName": "fort",
+      "id": 4
+    },
+    {
+      "firstName": "Jamal",
+      "lastName": "Imran",
+      "id": 6
+    },
+    {
+      "firstName": "Dara",
+      "lastName": "Ahmed",
+      "id": 7
+    }
+  ]
+}
