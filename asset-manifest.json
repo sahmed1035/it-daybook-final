@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/it-daybook-final/static/css/main.5c0360a6.chunk.css",
+    "main.js": "/it-daybook-final/static/js/main.f6069d27.chunk.js",
+    "main.js.map": "/it-daybook-final/static/js/main.f6069d27.chunk.js.map",
+    "runtime-main.js": "/it-daybook-final/static/js/runtime-main.1bdc7fa2.js",
+    "runtime-main.js.map": "/it-daybook-final/static/js/runtime-main.1bdc7fa2.js.map",
+    "static/css/2.8bed955a.chunk.css": "/it-daybook-final/static/css/2.8bed955a.chunk.css",
+    "static/js/2.4a8806a8.chunk.js": "/it-daybook-final/static/js/2.4a8806a8.chunk.js",
+    "static/js/2.4a8806a8.chunk.js.map": "/it-daybook-final/static/js/2.4a8806a8.chunk.js.map",
+    "index.html": "/it-daybook-final/index.html",
+    "precache-manifest.b1a1911ece4fec49d6e1958bf423e048.js": "/it-daybook-final/precache-manifest.b1a1911ece4fec49d6e1958bf423e048.js",
+    "service-worker.js": "/it-daybook-final/service-worker.js",
+    "static/css/2.8bed955a.chunk.css.map": "/it-daybook-final/static/css/2.8bed955a.chunk.css.map",
+    "static/css/main.5c0360a6.chunk.css.map": "/it-daybook-final/static/css/main.5c0360a6.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1bdc7fa2.js",
+    "static/css/2.8bed955a.chunk.css",
+    "static/js/2.4a8806a8.chunk.js",
+    "static/css/main.5c0360a6.chunk.css",
+    "static/js/main.f6069d27.chunk.js"
+  ]
+}
